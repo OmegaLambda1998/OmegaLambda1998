@@ -1,0 +1,12 @@
+[submodule "Archives"]
+	path = Archives
+	url = ./Archives/
+[submodule "Areas"]
+	path = Areas
+	url = ./Areas
+[submodule "Resources"]
+	path = Resources
+	url = ./Resources/
+[submodule "Projects"]
+	path = Projects
+	url = ./Projects/
