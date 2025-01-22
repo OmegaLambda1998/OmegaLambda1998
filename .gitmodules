@@ -6,7 +6,7 @@
 	url = ./Areas
 [submodule "Resources"]
 	path = Resources
-	url = ./Resources/
+	url = https://codeberg.org/OmegaLambda/Resources
 [submodule "Projects"]
 	path = Projects
-	url = ./Projects/
+	url = git@codeberg.org:OmegaLambda/Projects.git
