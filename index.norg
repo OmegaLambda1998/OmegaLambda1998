@@ -7,7 +7,11 @@ categories: [
 @end
 
 * Core
-  - {:$/Archives/index:}[Archive]
-  - {:$/Areas/index:}[Areas]
-  - {:$/Projects/index:}[Projects]
-  - {:$/Resources/index:}[Resources]
+** {https://codeberg.org/OmegaLambda/Projects.git}[Projects]
+   %{:$/Projects/index:}[Projects]%
+** {https://codeberg.org/OmegaLambda/Areas.git}[Areas]
+   %{:$/Areas/index:}[Areas]%
+** {https://codeberg.org/OmegaLambda/Resources.git}[Resources]
+   %{:$/Resources/index:}[Resources]%
+** {https://codeberg.org/OmegaLambda/Archives.git}[Archives]
+   %{:$/Archives/index:}[Archives]%
