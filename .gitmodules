@@ -1,12 +1,12 @@
 [submodule "Archives"]
 	path = Archives
-	url = ./Archives/
+	url = git@codeberg.org:OmegaLambda/Archives.git
 [submodule "Areas"]
 	path = Areas
-	url = ./Areas
+	url = git@codeberg.org:OmegaLambda/Areas.git
 [submodule "Resources"]
 	path = Resources
-	url = https://codeberg.org/OmegaLambda/Resources
+	url = git@codeberg.org:OmegaLambda/Resources.git
 [submodule "Projects"]
 	path = Projects
 	url = git@codeberg.org:OmegaLambda/Projects.git
