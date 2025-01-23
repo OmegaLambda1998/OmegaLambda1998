@@ -7,11 +7,11 @@ categories: [
 @end
 
 * Core
-** {https://github.com/OmegaLambda/Projects.git}[Projects]
+** {https://github.com/OmegaLambda/Projects}[Projects]
    %{:$/Projects/index:}[Projects]%
-** {https://github.com/OmegaLambda/Areas.git}[Areas]
+** {https://github.com/OmegaLambda/Areas}[Areas]
    %{:$/Areas/index:}[Areas]%
-** {https://github.com/OmegaLambda/Resources.git}[Resources]
+** {https://github.com/OmegaLambda/Resources}[Resources]
    %{:$/Resources/index:}[Resources]%
-** {https://github.com/OmegaLambda/Archives.git}[Archives]
+** {https://github.com/OmegaLambda/Archives}[Archives]
    %{:$/Archives/index:}[Archives]%
