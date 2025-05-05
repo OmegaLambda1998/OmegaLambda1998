@@ -1,6 +1,6 @@
-# PARA
+# Omega Lambda
 
-PARA is a Knowledge Management System (KMS) which organises knowledge into four categories:
+Welcome to my GitHub page. Here you will find my projects, modules, packages, abandoned hobbies, and other such programmatic oddities. I've attempted to organise this mess using a rough approximation of a [PARA] system, in which my various repositories have been allocated into the following categories:
 
 ## [Projects](/Projects/README.md)
 
@@ -9,3 +9,7 @@ PARA is a Knowledge Management System (KMS) which organises knowledge into four 
 ## [Resources](/Resources/README.md)
 
 ## [Archive](/Archive/README.md)
+
+---
+
+[PARA]: A Knowledge Management System (KMS) which I find myself using more and more often.
