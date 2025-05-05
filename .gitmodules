@@ -4,3 +4,9 @@
 [submodule "Archive"]
 	path = Archive
 	url = git@github.com:OmegaLambda1998/Archive.git
+[submodule "Resources"]
+	path = Resources
+	url = git@github.com:OmegaLambda1998/Resources.git
+[submodule "Areas"]
+	path = Areas
+	url = git@github.com:OmegaLambda1998/Areas.git
