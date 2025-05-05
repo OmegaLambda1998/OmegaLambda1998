@@ -4,6 +4,8 @@ Welcome to my GitHub page. Here you will find my projects, modules, packages, ab
 
 ## [Projects]
 
+Anything with a due date, including packages, papers, groups, etc…
+
 ## [Areas]
 
 ## [Resources]
