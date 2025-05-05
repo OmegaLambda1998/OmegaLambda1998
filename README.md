@@ -10,4 +10,4 @@ Welcome to my GitHub page. Here you will find my projects, modules, packages, ab
 
 ## [Archive](/Archive/README.md)
 
-[Projects]: /Projects/README.md "Projects"
+[Projects]: https://github.com/OmegaLambda1998/Projects "Projects"
