@@ -12,4 +12,4 @@ Welcome to my GitHub page. Here you will find my projects, modules, packages, ab
 
 ---
 
-[PARA]: A Knowledge Management System (KMS) which I find myself using more and more often.
+[PARA]: /url "Title"
