@@ -4,10 +4,13 @@ Welcome to my GitHub page. Here you will find my projects, modules, packages, ab
 
 ## [Projects]
 
-## [Areas](/Areas/README.md)
+## [Areas]
 
-## [Resources](/Resources/README.md)
+## [Resources]
 
-## [Archive](/Archive/README.md)
+## [Archive]
 
 [Projects]: https://github.com/OmegaLambda1998/Projects "Projects"
+[Areas]: https://github.com/OmegaLambda1998/Areas "Areas"
+[Resources]: https://github.com/OmegaLambda1998/Resources "Resources"
+[Archive]: https://github.com/OmegaLambda1998/Archive "Archive"
